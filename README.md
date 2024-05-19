@@ -12,7 +12,7 @@ Esta é uma API RESTful simples para gerenciar uma lista de produtos usando Spri
 1. Clone o repositório para sua máquina local:
 
     ```sh
-    git clone https://github.com/seu-usuario/ListaProdutos.git
+    git clone https://github.com/HeitorRs/ListaProdutos.git
     cd ListaProdutos
     ```
 
